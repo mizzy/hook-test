@@ -7,5 +7,4 @@ steps:
   commands:
   - echo hello
   - echo world
-  - echo foo
 
